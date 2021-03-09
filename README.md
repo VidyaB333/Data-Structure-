@@ -14,3 +14,12 @@ Searching Algorithms:
 3:Jump Search
 
 
+Different Data Structures used:
+1: LinkedList
+2: Doubly LinkedList
+3: Doubly LinedList
+4: Stack
+5: Tree
+6: Binary Tree
+7: Heap
+8: Graph
